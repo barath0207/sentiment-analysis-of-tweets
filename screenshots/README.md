@@ -18,4 +18,4 @@ The following screenshot demonstrates sentiment predictions for sample tweets us
 
 The confusion matrix generated during model evaluation is available in the `results` folder.
 
-[View Confusion Matrix](../results/confusion_matrix.png)
+[View Confusion Matrix](../screeenshots/confusion_matrix.png)
