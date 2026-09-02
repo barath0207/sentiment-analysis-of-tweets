@@ -1,6 +1,6 @@
 """
 Sentiment Analysis of Tweets
-Third-Year B.E. CSE Academic Project
+Academic Project
 
 Run:
     python src/sentiment_analysis.py
