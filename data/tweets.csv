@@ -1,0 +1,501 @@
+tweet_id,tweet,sentiment
+1,I absolutely hate the customer support right now. #twitter,negative
+2,Really happy with the new feature today! :),positive
+3,I absolutely hate this app right now. #twitter,negative
+4,I absolutely hate the new feature right now. :(,negative
+5,Totally enjoying the customer support ! #twitter,positive
+6,What a terrible the customer support so far. #twitter,negative
+7,The product was announced this morning.,neutral
+8,Really happy with my new phone very much! :),positive
+9,I absolutely love this movie today! @user,positive
+10,This is fantastic the overall experience very much! :),positive
+11,Really happy with the new update right now! #update,positive
+12,The event starts at 6 PM today.,neutral
+13,Best thing about my new phone so far! #update,positive
+14,This is fantastic this app so far! :),positive
+15,Terrible experience with this movie and it keeps failing. @support,negative
+16,The new version is available for download. #twitter,neutral
+17,I absolutely hate the latest product . @support,negative
+18,Really disappointed with the latest product completely. #twitter,negative
+19,I'm annoyed by this movie so far. @support,negative
+20,Feeling great about the new feature finally! :),positive
+21,Totally fed up with the weekend completely. #twitter,negative
+22,I read a post about the new feature. :),neutral
+23,I absolutely hate this app so far. #twitter,negative
+24,I'm annoyed by the overall experience today. :(,negative
+25,Best thing about the new feature finally! :),positive
+26,I am checking the latest update today.,neutral
+27,Feeling unhappy about the customer support completely.,negative
+28,Amazing experience with this movie ! #update,positive
+29,I read a post about the new feature. :),neutral
+30,I am using the app to check my account. :),neutral
+31,Terrible experience with my new phone so far.,negative
+32,Worst thing about the new update today. @support,negative
+33,I am using the app to check my account. #twitter,neutral
+34,Totally enjoying this app today! @user,positive
+35,The new version is available for download. #twitter,neutral
+36,Best thing about the new feature so far! #update,positive
+37,Totally fed up with the weekend right now. #twitter,negative
+38,I'm annoyed by my new phone and I would not recommend it. :(,negative
+39,So excited about this app very much!,positive
+40,So frustrated about the overall experience right now.,negative
+41,I absolutely love the latest product today!,positive
+42,The service is available from Monday. :),neutral
+43,Best thing about the latest product so far! :),positive
+44,So frustrated about this movie and it keeps failing. #twitter,negative
+45,I'm impressed by my new phone and it works perfectly! @user,positive
+46,I absolutely hate this app . :(,negative
+47,Really disappointed with the latest product right now. #twitter,negative
+48,Terrible experience with the weekend so far. @support,negative
+49,Really disappointed with this movie today.,negative
+50,Feeling unhappy about the new update today. #twitter,negative
+51,Best thing about this movie right now! @user,positive
+52,I read a post about the new feature. @user,neutral
+53,I'm impressed by the customer support and I would recommend it! #update,positive
+54,Feeling unhappy about this movie so far. #twitter,negative
+55,I absolutely love the overall experience ! #update,positive
+56,Totally enjoying this movie so far!,positive
+57,The service is available from Monday. #twitter,neutral
+58,Really happy with the latest product and it works perfectly!,positive
+59,I am comparing two phones before buying one. #twitter,neutral
+60,I absolutely hate the overall experience today. :(,negative
+61,Totally fed up with the new feature completely. @support,negative
+62,What a great the latest product finally! @user,positive
+63,This is fantastic this movie very much!,positive
+64,Totally enjoying the overall experience today!,positive
+65,Feeling unhappy about the customer support so far. @support,negative
+66,The event starts at 6 PM today. #update,neutral
+67,Best thing about the new feature finally! :),positive
+68,The new version is available for download.,neutral
+69,Feeling unhappy about the customer support today. #twitter,negative
+70,Really happy with the new feature so far! #update,positive
+71,So excited about my new phone right now! #update,positive
+72,This is awful the new update today. :(,negative
+73,I am checking the latest update today.,neutral
+74,Amazing experience with the customer support so far! @user,positive
+75,I'm annoyed by the new feature .,negative
+76,Amazing experience with the new feature ! #update,positive
+77,Terrible experience with the weekend so far.,negative
+78,I absolutely love my new phone right now! #twitter,positive
+79,What a terrible the new feature and it keeps failing. #twitter,negative
+80,The event starts at 6 PM today. #twitter,neutral
+81,I read a post about the new feature. @user,neutral
+82,What a great the weekend right now! #update,positive
+83,Really happy with the weekend ! @user,positive
+84,Best thing about my new phone finally! #twitter,positive
+85,So excited about the weekend very much! #update,positive
+86,I am using the app to check my account. #update,neutral
+87,I'm annoyed by the new feature completely.,negative
+88,This is fantastic today's service finally!,positive
+89,I'm impressed by my new phone very much! @user,positive
+90,Feeling unhappy about this app and it keeps failing. #twitter,negative
+91,I'm impressed by the new update right now! #update,positive
+92,What a terrible the overall experience completely.,negative
+93,This is awful the new feature again. :(,negative
+94,This is fantastic the new feature so far! #twitter,positive
+95,I'm annoyed by today's service again. :(,negative
+96,I absolutely hate the customer support again. #twitter,negative
+97,Totally fed up with the overall experience completely. :(,negative
+98,So frustrated about the new feature and I would not recommend it. #twitter,negative
+99,This is awful the new feature completely.,negative
+100,The event starts at 6 PM today. #update,neutral
+101,So excited about today's service !,positive
+102,Best thing about the overall experience today! @user,positive
+103,Totally fed up with the latest product and it keeps failing. :(,negative
+104,Amazing experience with the new update today! @user,positive
+105,Feeling great about this movie ! :),positive
+106,Really happy with this movie so far! @user,positive
+107,Feeling unhappy about the overall experience completely. :(,negative
+108,Feeling unhappy about the weekend and I would not recommend it. #twitter,negative
+109,Worst thing about this movie again. #twitter,negative
+110,I am using the app to check my account. :),neutral
+111,So frustrated about the customer support and I would not recommend it.,negative
+112,So frustrated about the customer support completely. @support,negative
+113,The service is available from Monday. #twitter,neutral
+114,I'm impressed by today's service right now!,positive
+115,What a terrible the new feature and I would not recommend it. :(,negative
+116,I'm impressed by the weekend ! :),positive
+117,I absolutely love my new phone finally! @user,positive
+118,There is a meeting about the project tomorrow. :),neutral
+119,Feeling unhappy about the overall experience right now. :(,negative
+120,I'm impressed by this movie ! @user,positive
+121,I'm impressed by today's service and I would recommend it! #twitter,positive
+122,The new version is available for download.,neutral
+123,I am comparing two phones before buying one. :),neutral
+124,Really disappointed with the weekend so far. :(,negative
+125,This is fantastic the weekend very much! #twitter,positive
+126,What a terrible the weekend again. :(,negative
+127,Really happy with this movie ! :),positive
+128,What a great the latest product today!,positive
+129,So frustrated about the latest product . #twitter,negative
+130,Best thing about this app right now! @user,positive
+131,What a terrible today's service today. #twitter,negative
+132,The service is available from Monday. :),neutral
+133,This is fantastic the overall experience and it works perfectly! @user,positive
+134,The event starts at 6 PM today.,neutral
+135,So frustrated about this app again.,negative
+136,Totally fed up with the new update completely. :(,negative
+137,Really disappointed with the new feature completely.,negative
+138,I saw the latest news on my timeline.,neutral
+139,What a terrible this movie so far. :(,negative
+140,Feeling great about the customer support and I would recommend it! @user,positive
+141,Totally fed up with the customer support completely. #twitter,negative
+142,The service is available from Monday. #update,neutral
+143,The event starts at 6 PM today. @user,neutral
+144,I'm annoyed by my new phone . :(,negative
+145,I read a post about the new feature. @user,neutral
+146,This is fantastic my new phone finally! :),positive
+147,This is awful the new feature . #twitter,negative
+148,I'm impressed by this movie right now! @user,positive
+149,Worst thing about this movie .,negative
+150,I'm impressed by the latest product finally! :),positive
+151,Feeling great about the new feature very much! @user,positive
+152,The new version is available for download. #update,neutral
+153,Best thing about the customer support finally! #update,positive
+154,So excited about my new phone today! :),positive
+155,I read a post about the new feature. #twitter,neutral
+156,Best thing about the customer support finally!,positive
+157,I am using the app to check my account. #twitter,neutral
+158,This is fantastic the new update so far! #update,positive
+159,I absolutely love the new feature finally! #twitter,positive
+160,Worst thing about this app . @support,negative
+161,Worst thing about my new phone so far.,negative
+162,Best thing about this app today! @user,positive
+163,Totally fed up with the new update so far. #twitter,negative
+164,I am using the app to check my account.,neutral
+165,The service is available from Monday. :),neutral
+166,Totally fed up with the overall experience right now. :(,negative
+167,Worst thing about the customer support and it keeps failing. @support,negative
+168,I absolutely hate the overall experience today. #twitter,negative
+169,This is awful this app so far. #twitter,negative
+170,Really happy with today's service ! @user,positive
+171,Totally fed up with this movie again.,negative
+172,This is fantastic this movie today! #twitter,positive
+173,I am comparing two phones before buying one. #twitter,neutral
+174,Feeling unhappy about the latest product so far. @support,negative
+175,The service is available from Monday.,neutral
+176,This is fantastic the overall experience finally! @user,positive
+177,This is fantastic the weekend finally! :),positive
+178,Worst thing about this app . :(,negative
+179,Totally fed up with the customer support .,negative
+180,Totally enjoying the overall experience ! #update,positive
+181,Terrible experience with this movie and I would not recommend it. @support,negative
+182,Totally enjoying the weekend and I would recommend it!,positive
+183,I'm annoyed by my new phone completely.,negative
+184,The product was announced this morning. @user,neutral
+185,This is awful the weekend . :(,negative
+186,This is fantastic my new phone today! @user,positive
+187,I am checking the latest update today. :),neutral
+188,I absolutely hate the latest product completely. :(,negative
+189,I absolutely hate the latest product again. #twitter,negative
+190,I saw the latest news on my timeline. @user,neutral
+191,Totally enjoying the latest product so far! #update,positive
+192,Feeling unhappy about the weekend today. #twitter,negative
+193,The service is available from Monday. @user,neutral
+194,I read a post about the new feature. @user,neutral
+195,I am using the app to check my account. :),neutral
+196,I'm annoyed by this movie and I would not recommend it. #twitter,negative
+197,Terrible experience with the weekend right now. #twitter,negative
+198,I am using the app to check my account. @user,neutral
+199,Feeling great about the customer support ! #update,positive
+200,Totally fed up with the overall experience and I would not recommend it. #twitter,negative
+201,Worst thing about my new phone completely. :(,negative
+202,What a terrible the latest product right now. :(,negative
+203,I'm impressed by the new update very much! @user,positive
+204,I'm annoyed by the weekend so far. :(,negative
+205,I read a post about the new feature. :),neutral
+206,The product was announced this morning.,neutral
+207,I saw the latest news on my timeline.,neutral
+208,Worst thing about the new update so far. :(,negative
+209,I read a post about the new feature.,neutral
+210,This is awful my new phone and it keeps failing.,negative
+211,The new version is available for download. @user,neutral
+212,I saw the latest news on my timeline. :),neutral
+213,Really happy with the latest product finally! #twitter,positive
+214,I'm annoyed by this app today. :(,negative
+215,This is fantastic the new update ! #update,positive
+216,This is awful my new phone completely. :(,negative
+217,Feeling great about the weekend so far! #twitter,positive
+218,Totally enjoying the weekend right now! @user,positive
+219,I read a post about the new feature. #twitter,neutral
+220,This is awful this movie again.,negative
+221,I saw the latest news on my timeline. #update,neutral
+222,Terrible experience with this app and I would not recommend it. @support,negative
+223,I am using the app to check my account. @user,neutral
+224,Worst thing about the customer support right now. :(,negative
+225,The service is available from Monday. #twitter,neutral
+226,What a great the overall experience finally! #update,positive
+227,I'm impressed by the customer support ! :),positive
+228,I am checking the latest update today. :),neutral
+229,This is awful the latest product completely. #twitter,negative
+230,Totally fed up with the customer support so far.,negative
+231,I am checking the latest update today. #update,neutral
+232,I absolutely hate the overall experience completely. #twitter,negative
+233,This is fantastic my new phone and it works perfectly! #twitter,positive
+234,Feeling great about my new phone finally! #twitter,positive
+235,Best thing about the customer support very much!,positive
+236,Really disappointed with today's service right now. :(,negative
+237,The new version is available for download. #update,neutral
+238,I'm impressed by the new update finally! :),positive
+239,What a great the customer support and it works perfectly! #update,positive
+240,So excited about this movie ! :),positive
+241,The new version is available for download. #update,neutral
+242,The event starts at 6 PM today.,neutral
+243,Worst thing about the customer support and it keeps failing.,negative
+244,I absolutely love the customer support and I would recommend it!,positive
+245,Feeling great about today's service and it works perfectly! @user,positive
+246,Feeling great about the weekend so far! @user,positive
+247,Worst thing about the overall experience and it keeps failing. @support,negative
+248,What a great the latest product and I would recommend it! @user,positive
+249,The product was announced this morning.,neutral
+250,The product was announced this morning. :),neutral
+251,The product was announced this morning.,neutral
+252,So excited about this app and I would recommend it!,positive
+253,Totally fed up with the new update . @support,negative
+254,Amazing experience with the overall experience right now!,positive
+255,The new version is available for download. #twitter,neutral
+256,So frustrated about my new phone so far.,negative
+257,Amazing experience with today's service finally! #twitter,positive
+258,I absolutely love today's service ! #update,positive
+259,So frustrated about the overall experience completely.,negative
+260,I absolutely love today's service and it works perfectly! :),positive
+261,Really happy with this movie and I would recommend it! #update,positive
+262,Really disappointed with this movie right now.,negative
+263,Feeling unhappy about the customer support and I would not recommend it.,negative
+264,Best thing about the weekend and it works perfectly!,positive
+265,Worst thing about this app today. @support,negative
+266,Really disappointed with today's service again. @support,negative
+267,Totally enjoying the new feature finally! @user,positive
+268,I'm annoyed by this app today. #twitter,negative
+269,So frustrated about the weekend completely. :(,negative
+270,Really happy with my new phone and it works perfectly! #update,positive
+271,What a terrible today's service and I would not recommend it.,negative
+272,Really happy with this app and it works perfectly!,positive
+273,What a terrible today's service . @support,negative
+274,I'm annoyed by my new phone and it keeps failing.,negative
+275,I am comparing two phones before buying one. #update,neutral
+276,Totally enjoying the new feature right now! #twitter,positive
+277,So frustrated about this app completely. @support,negative
+278,This is fantastic the overall experience right now! @user,positive
+279,I am comparing two phones before buying one. :),neutral
+280,Feeling unhappy about the new update again.,negative
+281,This is fantastic my new phone very much!,positive
+282,Amazing experience with the overall experience and it works perfectly!,positive
+283,I absolutely love this app right now! @user,positive
+284,What a terrible today's service completely. @support,negative
+285,Totally fed up with the overall experience today.,negative
+286,Totally enjoying the new update today! #update,positive
+287,I'm annoyed by this movie and I would not recommend it. :(,negative
+288,Feeling great about this app very much! @user,positive
+289,Totally enjoying this movie finally!,positive
+290,Totally enjoying the new update ! #twitter,positive
+291,So excited about today's service finally! #update,positive
+292,I absolutely love this movie and it works perfectly! #twitter,positive
+293,Feeling great about the latest product very much!,positive
+294,I absolutely love the weekend ! @user,positive
+295,The product was announced this morning. :),neutral
+296,I'm annoyed by the weekend again.,negative
+297,What a terrible today's service and I would not recommend it. @support,negative
+298,Really happy with the latest product and it works perfectly! :),positive
+299,Really disappointed with the weekend again. @support,negative
+300,Amazing experience with this app today! :),positive
+301,What a terrible my new phone so far. #twitter,negative
+302,This is fantastic the latest product so far! :),positive
+303,Really happy with today's service and I would recommend it! @user,positive
+304,Totally fed up with this movie completely. @support,negative
+305,Really happy with this movie and I would recommend it! #update,positive
+306,Totally fed up with the new update completely.,negative
+307,Best thing about the new update ! #update,positive
+308,The service is available from Monday.,neutral
+309,Feeling unhappy about the weekend and I would not recommend it.,negative
+310,Totally fed up with the latest product completely. :(,negative
+311,I absolutely hate this movie today. @support,negative
+312,The service is available from Monday. :),neutral
+313,I absolutely hate the latest product and I would not recommend it. :(,negative
+314,Totally fed up with today's service completely. @support,negative
+315,There is a meeting about the project tomorrow. @user,neutral
+316,Totally fed up with the new update completely.,negative
+317,Feeling great about the weekend finally! #update,positive
+318,Totally fed up with today's service completely.,negative
+319,Terrible experience with my new phone again. :(,negative
+320,Really happy with the customer support and it works perfectly! #update,positive
+321,The new version is available for download.,neutral
+322,I'm annoyed by the new feature completely.,negative
+323,Amazing experience with the latest product very much! @user,positive
+324,Amazing experience with today's service today! #update,positive
+325,The service is available from Monday. :),neutral
+326,Feeling unhappy about the new update completely. #twitter,negative
+327,Terrible experience with today's service so far. #twitter,negative
+328,I absolutely hate the weekend completely. #twitter,negative
+329,I am comparing two phones before buying one. #update,neutral
+330,Worst thing about the latest product right now. @support,negative
+331,I saw the latest news on my timeline. #twitter,neutral
+332,Totally enjoying this movie and I would recommend it! #update,positive
+333,Feeling unhappy about the new feature and it keeps failing. #twitter,negative
+334,I am comparing two phones before buying one. #twitter,neutral
+335,I am checking the latest update today. @user,neutral
+336,The new version is available for download.,neutral
+337,Feeling unhappy about this app again.,negative
+338,This is awful this movie so far. :(,negative
+339,So excited about this movie very much!,positive
+340,I'm annoyed by the new feature completely. #twitter,negative
+341,Really happy with my new phone right now!,positive
+342,Really happy with my new phone so far! #twitter,positive
+343,Best thing about today's service and I would recommend it! @user,positive
+344,Really disappointed with the new update again. #twitter,negative
+345,The new version is available for download. :),neutral
+346,Really disappointed with the customer support right now. @support,negative
+347,So excited about the weekend and I would recommend it!,positive
+348,Best thing about the overall experience ! :),positive
+349,Terrible experience with the customer support and it keeps failing.,negative
+350,So frustrated about the overall experience and it keeps failing. #twitter,negative
+351,Really disappointed with the new feature completely.,negative
+352,The new version is available for download. :),neutral
+353,Feeling unhappy about the new feature . :(,negative
+354,I am checking the latest update today. @user,neutral
+355,I am using the app to check my account.,neutral
+356,Really happy with my new phone right now!,positive
+357,What a terrible today's service . @support,negative
+358,Terrible experience with this movie and I would not recommend it. #twitter,negative
+359,The service is available from Monday. @user,neutral
+360,So excited about the new update right now!,positive
+361,This is fantastic the new feature and it works perfectly! :),positive
+362,I absolutely hate the latest product again. @support,negative
+363,I am checking the latest update today. #update,neutral
+364,What a great the weekend and it works perfectly! @user,positive
+365,There is a meeting about the project tomorrow. #update,neutral
+366,I saw the latest news on my timeline. @user,neutral
+367,Feeling great about the customer support today! @user,positive
+368,Totally enjoying today's service finally! #update,positive
+369,What a great the customer support finally! @user,positive
+370,I'm annoyed by today's service and I would not recommend it. @support,negative
+371,What a terrible the overall experience and it keeps failing. @support,negative
+372,I absolutely hate this app and it keeps failing. @support,negative
+373,Terrible experience with the new update so far. :(,negative
+374,Really happy with the latest product very much! #update,positive
+375,Totally enjoying the new update so far! @user,positive
+376,The product was announced this morning. @user,neutral
+377,Totally fed up with today's service completely. :(,negative
+378,This is fantastic the latest product today!,positive
+379,Worst thing about the new feature and it keeps failing.,negative
+380,This is fantastic this movie right now! :),positive
+381,Best thing about the latest product today! #twitter,positive
+382,I saw the latest news on my timeline. #twitter,neutral
+383,I saw the latest news on my timeline.,neutral
+384,The product was announced this morning. #update,neutral
+385,Feeling unhappy about the new feature again. @support,negative
+386,I read a post about the new feature. #update,neutral
+387,Really disappointed with the latest product so far. #twitter,negative
+388,I absolutely hate my new phone completely. :(,negative
+389,The new version is available for download. #twitter,neutral
+390,Really disappointed with this app again. :(,negative
+391,I saw the latest news on my timeline. :),neutral
+392,I'm annoyed by the overall experience today. #twitter,negative
+393,The service is available from Monday. @user,neutral
+394,Feeling unhappy about my new phone so far. #twitter,negative
+395,Terrible experience with the weekend .,negative
+396,This is awful today's service so far. @support,negative
+397,The event starts at 6 PM today. #update,neutral
+398,The new version is available for download. #update,neutral
+399,I am using the app to check my account. #twitter,neutral
+400,Feeling unhappy about the customer support so far. @support,negative
+401,Really disappointed with the new feature so far. #twitter,negative
+402,Totally enjoying the overall experience very much! :),positive
+403,I absolutely love this app ! :),positive
+404,So excited about the overall experience and it works perfectly! :),positive
+405,Worst thing about the new feature again. @support,negative
+406,I'm annoyed by the customer support and I would not recommend it.,negative
+407,Terrible experience with this movie and it keeps failing. :(,negative
+408,What a terrible the overall experience so far. @support,negative
+409,The product was announced this morning. #update,neutral
+410,I read a post about the new feature. #update,neutral
+411,Really disappointed with my new phone right now. :(,negative
+412,Best thing about the latest product so far!,positive
+413,I'm impressed by the overall experience and it works perfectly! #twitter,positive
+414,I read a post about the new feature. #update,neutral
+415,The product was announced this morning. #twitter,neutral
+416,Worst thing about the new feature and I would not recommend it. :(,negative
+417,I saw the latest news on my timeline.,neutral
+418,I'm impressed by the new feature and I would recommend it! #twitter,positive
+419,What a great the new update ! #update,positive
+420,Worst thing about the customer support .,negative
+421,This is awful my new phone and it keeps failing. @support,negative
+422,I absolutely love the overall experience right now! #update,positive
+423,Really disappointed with the weekend and I would not recommend it. @support,negative
+424,I am comparing two phones before buying one. :),neutral
+425,Really happy with the weekend very much! #update,positive
+426,What a terrible today's service right now. :(,negative
+427,I absolutely hate the new update so far. @support,negative
+428,The new version is available for download. @user,neutral
+429,Feeling great about today's service very much! :),positive
+430,I'm impressed by the overall experience finally! :),positive
+431,Feeling great about the new feature and I would recommend it! :),positive
+432,I absolutely love my new phone very much!,positive
+433,I am comparing two phones before buying one. #update,neutral
+434,I absolutely hate the overall experience and I would not recommend it. @support,negative
+435,I am comparing two phones before buying one. :),neutral
+436,I absolutely love the overall experience and I would recommend it! #twitter,positive
+437,Totally fed up with the weekend so far. #twitter,negative
+438,Really happy with the latest product ! @user,positive
+439,Amazing experience with the weekend right now! @user,positive
+440,Totally fed up with this movie . #twitter,negative
+441,Feeling unhappy about my new phone and I would not recommend it. :(,negative
+442,Amazing experience with this movie very much! :),positive
+443,This is fantastic the overall experience and I would recommend it! #twitter,positive
+444,I am using the app to check my account. :),neutral
+445,This is fantastic the customer support right now! @user,positive
+446,What a great the new feature finally! #update,positive
+447,Feeling great about the weekend and it works perfectly! #update,positive
+448,I read a post about the new feature. #update,neutral
+449,Really happy with my new phone and I would recommend it! #update,positive
+450,So frustrated about the latest product again. @support,negative
+451,Totally enjoying the overall experience right now! #twitter,positive
+452,Feeling great about the latest product right now!,positive
+453,What a great this movie today! #twitter,positive
+454,Feeling great about today's service and it works perfectly! @user,positive
+455,So frustrated about the customer support completely. @support,negative
+456,Really disappointed with the overall experience right now.,negative
+457,I read a post about the new feature. @user,neutral
+458,I read a post about the new feature.,neutral
+459,There is a meeting about the project tomorrow. @user,neutral
+460,This is fantastic the new update ! #update,positive
+461,Really disappointed with my new phone again. :(,negative
+462,The new version is available for download. :),neutral
+463,Terrible experience with the new feature and I would not recommend it. @support,negative
+464,Really happy with my new phone so far! @user,positive
+465,Terrible experience with the new update completely. @support,negative
+466,So frustrated about today's service and it keeps failing. :(,negative
+467,Really disappointed with the weekend today. #twitter,negative
+468,I saw the latest news on my timeline. #update,neutral
+469,I am checking the latest update today. #update,neutral
+470,Best thing about the customer support very much! #update,positive
+471,Totally fed up with the new update again. @support,negative
+472,I absolutely hate this app and I would not recommend it. @support,negative
+473,Feeling great about the customer support today! #update,positive
+474,So excited about the latest product so far! @user,positive
+475,Totally enjoying my new phone and it works perfectly! :),positive
+476,The new version is available for download. #twitter,neutral
+477,Totally fed up with this app and I would not recommend it. @support,negative
+478,Totally enjoying this app ! :),positive
+479,The event starts at 6 PM today. :),neutral
+480,Terrible experience with my new phone and I would not recommend it.,negative
+481,Totally fed up with this movie today. :(,negative
+482,I saw the latest news on my timeline. #twitter,neutral
+483,Worst thing about the overall experience . :(,negative
+484,This is awful the new update and it keeps failing. @support,negative
+485,The event starts at 6 PM today. :),neutral
+486,I'm impressed by my new phone today! :),positive
+487,The service is available from Monday. @user,neutral
+488,I'm impressed by today's service so far! @user,positive
+489,I'm impressed by this movie and it works perfectly! @user,positive
+490,Feeling great about today's service very much!,positive
+491,Feeling great about the weekend so far! #twitter,positive
+492,I am checking the latest update today. #update,neutral
+493,Feeling unhappy about the weekend and it keeps failing. #twitter,negative
+494,What a great today's service finally! #twitter,positive
+495,The service is available from Monday.,neutral
+496,There is a meeting about the project tomorrow. :),neutral
+497,I absolutely hate the latest product right now.,negative
+498,I absolutely love this movie ! #twitter,positive
+499,I'm annoyed by this movie right now. #twitter,negative
+500,I absolutely hate today's service again. #twitter,negative
