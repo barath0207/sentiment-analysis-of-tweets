@@ -1,6 +1,6 @@
 # Sentiment Analysis of Tweets
 
-A third-year B.E. CSE machine learning project that classifies tweets as **Positive, Negative, or Neutral**.
+A machine learning project that classifies tweets as **Positive, Negative, or Neutral**.
 
 ## Overview
 
@@ -147,4 +147,4 @@ The model is evaluated using:
 
 ## Author
 
-Add your name, department, college, and GitHub profile here before publishing.
+Barath Kumar S, B.E CSE, CARE College of Engineering and @barath0207
