@@ -4,18 +4,18 @@ This folder contains screenshots demonstrating the output and functionality of t
 
 ## 🖥️ Model Results
 
-The following screenshot shows the model evaluation results, including the dataset information, training/testing split, accuracy, classification report, and sample predictions.
+The screenshot below shows the model evaluation results, including dataset information, training/testing split, accuracy, classification report, and sample predictions.
 
 ![Model Results](model-results.png)
 
 ## 🔍 Sentiment Predictions
 
-The following screenshot demonstrates sentiment predictions for sample tweets using the trained machine learning model.
+The screenshot below demonstrates sentiment predictions for sample tweets using the trained machine learning model.
 
 ![Prediction Examples](prediction-examples.png)
 
 ## 📊 Confusion Matrix
 
-The confusion matrix generated during model evaluation is available in the `results` folder.
+The confusion matrix shows the performance of the sentiment classification model across the Positive, Negative, and Neutral classes.
 
-[View Confusion Matrix](../screeenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
